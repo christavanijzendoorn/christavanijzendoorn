@@ -7,4 +7,4 @@
  
 - :partly_sunny: Out in the field to study sand tranport in the intertidal area
 - :hammer_and_wrench: Working on the release of the Jarkus Analysis Toolbox
-- :notebook: Writing a paper on long term development of the dune foot in the Netherlands
+- :notebook: Writing a paper on long term development of the dune toe in the Netherlands
