@@ -6,5 +6,5 @@
   - :beach_umbrella: Coastal Engineering 
  
 - :partly_sunny: Out in the field to study sand tranport in the intertidal area
-- :hammer_and_wrench: Working on the release of the Jarkus Analysis Toolbox
-- :notebook: Writing a paper on long term development of the dune toe in the Netherlands
+- :hammer_and_wrench: Working on aeolian transport simulations using Aeolis
+- :notebook: Writing a paper on grain size variations in the intertidal zone
