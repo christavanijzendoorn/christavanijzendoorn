@@ -1,4 +1,4 @@
-### Hi!! 👋 I'm Christa van IJzendoorn a physical geographer with a PhD in Coastal Engineering who is currently working as a PostDoc at Oregon State University 🧐🌎🚴‍♀️🌈
+### Hi! 👋 I'm Christa van IJzendoorn a physical geographer with a PhD in Coastal Engineering who is currently working as a PostDoc at Oregon State University 🧐🌎🚴‍♀️🌈
 
 - Subjects:
   - :desert_island: Beaches and Dunes 
