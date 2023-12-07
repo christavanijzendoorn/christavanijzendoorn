@@ -2,7 +2,7 @@
 
 - Subjects:
   - :desert_island: Beaches and Dunes 
-  - ⏳ Sediment transport by Wind :tornado: and Waves :ocean: 
+  - ⏳ Sediment transport by Wind 🌪️ and Waves 🌊
   - :beach_umbrella: Nature-based solutions for challenges related to sea level rise and climate change
  
 - :partly_sunny: Out in the field to study sand tranport by the wind
